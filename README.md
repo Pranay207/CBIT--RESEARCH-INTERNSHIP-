@@ -5,6 +5,7 @@
  I've completed as part of my learning journey in Python, Machine Learning, and Deep Learning:
 
 ✅ Python Programming Essentials
+
    Platform: Infosys Springboard
    Status: Completed
    Date:  30th May 2025
@@ -12,6 +13,7 @@
    Summary:Gained foundational knowledge of Python including variables, data types, conditionals, loops, and function basics.
 
 ✅ Machine Learning Fundamentals
+
     Platform: Coursera (University of London)
     Status: Completed
     Date: 24th June 2025
@@ -19,6 +21,7 @@
     Summary:Studied key concepts in supervised and unsupervised learning, classification techniques, and model evaluation metrics.
 
 ✅ Fundamentals of Deep Learning
+
    Platform: Infosys Springboard
    Status: Completed
    Date: 5th July 2025
