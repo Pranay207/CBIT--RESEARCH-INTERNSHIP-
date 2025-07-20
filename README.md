@@ -21,16 +21,19 @@ The goal of this internship is to build practical skills in Python, machine lear
    Functions and modular code
 
 
-3. Machine Learning Fundamentals
- Platform: Coursera (University of London)
+2. Machine Learning Fundamentals
+   
+   Platform: Coursera (University of London)
 
- Completed On: 20th June 2025
+   Completed On: 20th June 2025
  
- certificate :https://drive.google.com/file/d/1FFokJwSMYzIf7cf5SB5eMEXUUWCOVhXy/view?usp=drivesdk
+   certificate :https://drive.google.com/file/d/1FFokJwSMYzIf7cf5SB5eMEXUUWCOVhXy/view?usp=drivesdk
  
- Summary:Explored fundamental ML concepts:
- Supervised and unsupervised learning
- Decision trees, k-NN, and logistic regression
+   Summary:Explored fundamental ML concepts:
+ 
+   Supervised and unsupervised learning
+   
+   Decision trees, k-NN, and logistic regression
 
 
 
@@ -43,8 +46,11 @@ The goal of this internship is to build practical skills in Python, machine lear
    certifiacte:https://drive.google.com/file/d/1tTqoK_WmXaJ5cB6FrzIVsTmtBr3MUzR9/view?usp=drivesdk
    
    Summary:Learned core deep learning concepts:
+   
    Neural networks and backpropagation
+   
    Convolutional Neural Networks (CNNs)
+   
    Applications in image recognition
 
 
